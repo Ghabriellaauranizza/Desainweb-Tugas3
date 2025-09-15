@@ -1,0 +1,4 @@
+Fille ini berisi rincian materi
+1. backend
+2. frontend
+3. ui/ux
